@@ -46,7 +46,7 @@ In the Cleaning and EDA notebook, the scraped data was processed and cleaned:
 * Formatting Dates: Departure and return dates were reformatted for consistency.
 * Add new columns: Added new columns like Season,Total Stops and etc.
 
-## 3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 
 The EDA focused on uncovering patterns in airfare prices:
 
@@ -55,7 +55,7 @@ The EDA focused on uncovering patterns in airfare prices:
 * Top Destinations by Price: Ranking destinations based on average airfare costs.
 * Airline Comparison: Comparison of average prices across different airlines.
 
-## 4. Data Analysis and Insights
+### 4. Data Analysis and Insights
 
 After cleaning the data, key insights were derived from the analysis:
 
