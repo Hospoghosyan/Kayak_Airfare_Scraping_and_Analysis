@@ -55,6 +55,7 @@ For economy class, the duration of the trip can last up to 50 hours, while for b
 4. What are the price trends and seasonal changes for both directions?
 
 The cheapest tickets for both classes are available in the fall, although the prices in other seasons vary only slightly for each class.
+\n
 ![image](https://github.com/user-attachments/assets/520c6802-a1a3-4409-9066-d40a7e4960d2)
 ![image](https://github.com/user-attachments/assets/94b17ae2-de30-4db2-a45c-da04e1d93611)
 ![image](https://github.com/user-attachments/assets/0a51a694-fd11-4b0d-ab2f-1591f789f34d)
