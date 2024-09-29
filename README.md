@@ -28,9 +28,9 @@ The dataset contains flight information scraped from Kayak, covering different f
 
 3. How do layovers impact overall travel time and price?
 
-4.What are the price trends and seasonal changes for both directions?
+4. What are the price trends and seasonal changes for both directions?
 
-5.What are the most profitable airlines?
+5. What are the most profitable airlines?
 
 ## Project Structure
 
