@@ -18,7 +18,7 @@ The dataset contains flight information scraped from Kayak, covering different f
 
 * Web Scraping: Automate the scraping of airfare data for multiple months and routes.
 * Data Cleaning: Clean the scraped data by handling missing values, formatting times, and removing outliers.
-* Exploratory Data Analysis (EDA): Visualize and analyze trends in airfare data to understand how prices vary by date, destination, and other factors.## Questions to Explore:
+* Exploratory Data Analysis (EDA): Visualize and analyze trends in airfare data to understand how prices vary by date, destination, and other factors.
 
 ## Questions to Explore:
 
