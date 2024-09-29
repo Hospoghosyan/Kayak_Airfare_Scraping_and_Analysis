@@ -30,38 +30,41 @@ Based on the average prices, the most affordable economy class round-trip ticket
 
 
   
-3. Which routes have the shortest travel times?
+2. Which routes have the shortest travel times?
+
 Based on the previous and current visualizations, it can be concluded that for Armenia, the best route is Yerevan to Riyadh, while for Saudi Arabia, it is Dammam to Yerevan.
-  ![image](https://github.com/user-attachments/assets/fb134788-97a4-431e-84ad-493fa283b8a4)
+![image](https://github.com/user-attachments/assets/fb134788-97a4-431e-84ad-493fa283b8a4)
 
 
 
   
-4. How do layovers impact overall travel time and price?
- 
+3. How do layovers impact overall travel time and price?
+
+Based on this visualization, it can be concluded that economy class may have up to three layovers, while business class typically has only one layover. Additionally, for economy class, prices range from $300 to $1,800, while for business class, they start at $1,500 and can go up to $4,500, with most prices falling between $1,500 and $2,700 
 ![image](https://github.com/user-attachments/assets/6f523703-34b0-4c73-8b22-af0cb49d8483)
 ![image](https://github.com/user-attachments/assets/0d6debcc-2497-45ed-861a-8f57aa81d994)
 
-Based on this visualization, it can be concluded that economy class may have up to three layovers, while business class typically has only one layover. Additionally, for economy class, prices range from $300 to $1,800, while for business class, they start at $1,500 and can go up to $4,500, with most prices falling between $1,500 and $2,700
 
 
+For economy class, the duration of the trip can last up to 50 hours, while for business class, it typically lasts a maximum of 30 hours.
 ![image](https://github.com/user-attachments/assets/00dc7cae-1d02-4b3f-9eea-45e1b8d0b857)
 ![image](https://github.com/user-attachments/assets/63e6368b-8979-4990-a6e7-d98b58549dce)
 
-For economy class, the duration of the trip can last up to 50 hours, while for business class, it typically lasts a maximum of 30 hours.
 
 
 4. What are the price trends and seasonal changes for both directions?
 
+The cheapest tickets for both classes are available in the fall, although the prices in other seasons vary only slightly for each class.
 ![image](https://github.com/user-attachments/assets/520c6802-a1a3-4409-9066-d40a7e4960d2)
 ![image](https://github.com/user-attachments/assets/94b17ae2-de30-4db2-a45c-da04e1d93611)
 ![image](https://github.com/user-attachments/assets/0a51a694-fd11-4b0d-ab2f-1591f789f34d)
 
-The cheapest tickets for both classes are available in the fall, although the prices in other seasons vary only slightly for each class.
 
-![image](https://github.com/user-attachments/assets/e91526b3-4853-4d4a-9f90-00014f085fd8)
 
 In October, the cheapest tickets for economy class are available. Since the lowest prices for business class are also in the fall, it can be assumed that October offers the cheapest tickets for business class as well.
+![image](https://github.com/user-attachments/assets/e91526b3-4853-4d4a-9f90-00014f085fd8)
+
+
 
 ![image](https://github.com/user-attachments/assets/61491f16-71d3-458b-a66a-59b451c9b917)
 ![image](https://github.com/user-attachments/assets/4c01aab9-2170-4967-b6e1-7df205aae748)
