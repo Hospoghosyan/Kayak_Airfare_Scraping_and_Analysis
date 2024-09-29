@@ -118,4 +118,9 @@ After cleaning the data, key insights were derived from the analysis:
 
 ## Conclusion
 
-This project automates the collection of airfare data from Kayak and provides valuable insights into pricing trends.
+Based on the analysis of airfare data and visualizations, several key insights emerge regarding travel between Armenia and Saudi Arabia. The most affordable tickets for both economy and business classes are typically available in the fall, with October offering the lowest prices. Economy class tickets range from $300 to $1,800, while business class fares start at $1,500 and can reach up to $4,500, with most prices falling between $1,500 and $2,700.
+
+Travel times reveal that economy class may involve up to three layovers, with trip durations extending up to 50 hours, while business class typically has one layover and a maximum trip duration of 30 hours. Additionally, round-trip tickets from Saudi Arabia to Armenia are significantly cheaper than those from Armenia to Saudi Arabia.
+
+The best airline option for both directions is Wizz Air Abu Dhabi, offering competitive prices and travel times. Notably, Dubai International Airport is a common layover point for many flights between these regions.
+
