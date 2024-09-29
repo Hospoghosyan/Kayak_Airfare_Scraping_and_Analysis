@@ -8,11 +8,11 @@ This project involves scraping airfare data from Kayak using Selenium, followed 
 
 The dataset contains flight information scraped from Kayak, covering different flight durations (1 week, 2 weeks, 1 month) and various months. The key features of the dataset include:
 
- • Carrier: Airline providing the service.
- • Departure and Arrival: Departure and arrival locations.
- • Flight Duration: Total travel time.
- • Layovers: Layover information.
- • Price: Airfare cost.
+* Carrier: Airline providing the service.
+* Departure and Arrival: Departure and arrival locations.
+* Flight Duration: Total travel time.
+* Layovers: Layover information.
+* Price: Airfare cost.
 
 ## Objectives
 
