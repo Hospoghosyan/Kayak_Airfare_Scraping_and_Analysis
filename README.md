@@ -23,21 +23,21 @@ The dataset contains flight information scraped from Kayak, covering different f
 ## Questions to Explore:
 
 1. Which routes are the most cost-effective?
-
-  ![image](https://github.com/user-attachments/assets/342b1f38-31b8-41a2-9248-bb3255891257)
-  
 Based on the average prices, the most affordable economy class round-trip ticket from Armenia to Saudi Arabia is from Yerevan to Medina, while the best-priced business class round-trip ticket is from Yerevan to Riyadh. Additionally, for travel to Armenia from Saudi Arabia, the cheapest round-trip tickets for both economy and business classes are from Dammam to Yerevan.
+  ![image](https://github.com/user-attachments/assets/342b1f38-31b8-41a2-9248-bb3255891257)
 
 
-2. Which routes have the shortest travel times?
 
-  ![image](https://github.com/user-attachments/assets/fb134788-97a4-431e-84ad-493fa283b8a4)
   
+2. Which routes have the shortest travel times?
 Based on the previous and current visualizations, it can be concluded that for Armenia, the best route is Yerevan to Riyadh, while for Saudi Arabia, it is Dammam to Yerevan.
+  ![image](https://github.com/user-attachments/assets/fb134788-97a4-431e-84ad-493fa283b8a4)
 
 
+
+  
 3. How do layovers impact overall travel time and price?
-4. 
+ 
 ![image](https://github.com/user-attachments/assets/6f523703-34b0-4c73-8b22-af0cb49d8483)
 ![image](https://github.com/user-attachments/assets/0d6debcc-2497-45ed-861a-8f57aa81d994)
 
@@ -50,7 +50,7 @@ Based on this visualization, it can be concluded that economy class may have up 
 For economy class, the duration of the trip can last up to 50 hours, while for business class, it typically lasts a maximum of 30 hours.
 
 
-5. What are the price trends and seasonal changes for both directions?
+4. What are the price trends and seasonal changes for both directions?
 
 ![image](https://github.com/user-attachments/assets/520c6802-a1a3-4409-9066-d40a7e4960d2)
 ![image](https://github.com/user-attachments/assets/94b17ae2-de30-4db2-a45c-da04e1d93611)
@@ -70,7 +70,7 @@ In October, the cheapest tickets for economy class are available. Since the lowe
 ![image](https://github.com/user-attachments/assets/bc723fdb-6391-4860-9972-36debf113316)
 
 
-6. What are the most profitable airlines?
+5. What are the most profitable airlines?
 
 ## Project Structure
 
