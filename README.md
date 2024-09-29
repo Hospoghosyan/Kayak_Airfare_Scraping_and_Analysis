@@ -25,23 +25,50 @@ The dataset contains flight information scraped from Kayak, covering different f
 1. Which routes are the most cost-effective?
 
   ![image](https://github.com/user-attachments/assets/342b1f38-31b8-41a2-9248-bb3255891257)
+  
 Based on the average prices, the most affordable economy class round-trip ticket from Armenia to Saudi Arabia is from Yerevan to Medina, while the best-priced business class round-trip ticket is from Yerevan to Riyadh. Additionally, for travel to Armenia from Saudi Arabia, the cheapest round-trip tickets for both economy and business classes are from Dammam to Yerevan.
+
 
 2. Which routes have the shortest travel times?
 
   ![image](https://github.com/user-attachments/assets/fb134788-97a4-431e-84ad-493fa283b8a4)
+  
 Based on the previous and current visualizations, it can be concluded that for Armenia, the best route is Yerevan to Riyadh, while for Saudi Arabia, it is Dammam to Yerevan.
 
+
 3. How do layovers impact overall travel time and price?
-![image](https://github.com/user-attachments/assets/e44dd20b-3d5b-4460-bad4-7a68249cc978)
-![image](https://github.com/user-attachments/assets/85a3a461-f68d-4789-9c77-b67cf744e5f3)
+4. 
+![image](https://github.com/user-attachments/assets/6f523703-34b0-4c73-8b22-af0cb49d8483)
+![image](https://github.com/user-attachments/assets/0d6debcc-2497-45ed-861a-8f57aa81d994)
+
 Based on this visualization, it can be concluded that economy class may have up to three layovers, while business class typically has only one layover. Additionally, for economy class, prices range from $300 to $1,800, while for business class, they start at $1,500 and can go up to $4,500, with most prices falling between $1,500 and $2,700
 
-![image](https://github.com/user-attachments/assets/ed397ea5-2ba7-48c6-899f-c2eb65bed00c)
-![image](https://github.com/user-attachments/assets/07ced2b4-feb0-4b56-93d0-2b390947c4b0)
+
+![image](https://github.com/user-attachments/assets/00dc7cae-1d02-4b3f-9eea-45e1b8d0b857)
+![image](https://github.com/user-attachments/assets/63e6368b-8979-4990-a6e7-d98b58549dce)
+
 For economy class, the duration of the trip can last up to 50 hours, while for business class, it typically lasts a maximum of 30 hours.
 
+
 5. What are the price trends and seasonal changes for both directions?
+
+![image](https://github.com/user-attachments/assets/520c6802-a1a3-4409-9066-d40a7e4960d2)
+![image](https://github.com/user-attachments/assets/94b17ae2-de30-4db2-a45c-da04e1d93611)
+![image](https://github.com/user-attachments/assets/0a51a694-fd11-4b0d-ab2f-1591f789f34d)
+
+The cheapest tickets for both classes are available in the fall, although the prices in other seasons vary only slightly for each class.
+
+![image](https://github.com/user-attachments/assets/e91526b3-4853-4d4a-9f90-00014f085fd8)
+
+In October, the cheapest tickets for economy class are available. Since the lowest prices for business class are also in the fall, it can be assumed that October offers the cheapest tickets for business class as well.
+
+![image](https://github.com/user-attachments/assets/61491f16-71d3-458b-a66a-59b451c9b917)
+![image](https://github.com/user-attachments/assets/4c01aab9-2170-4967-b6e1-7df205aae748)
+
+
+![image](https://github.com/user-attachments/assets/7f6d92a8-5475-4af8-a79a-fd2dcddb30eb)
+![image](https://github.com/user-attachments/assets/bc723fdb-6391-4860-9972-36debf113316)
+
 
 6. What are the most profitable airlines?
 
