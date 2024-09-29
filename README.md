@@ -23,7 +23,7 @@ The dataset contains flight information scraped from Kayak, covering different f
 ## Questions to Explore:
 
 1. Which routes are the most cost-effective?
-Based on the average prices, the most affordable economy class round-trip ticket from Armenia to Saudi Arabia is from Yerevan to Medina, while the best-priced business class round-trip ticket is from Yerevan to Riyadh. Additionally, for travel to Armenia from Saudi Arabia, the cheapest round-trip tickets for both economy and business classes are from Dammam to Yerevan.
+*Based on the average prices, the most affordable economy class round-trip ticket from Armenia to Saudi Arabia is from Yerevan to Medina, while the best-priced business class round-trip ticket is from Yerevan to Riyadh. Additionally, for travel to Armenia from Saudi Arabia, the cheapest round-trip tickets for both economy and business classes are from Dammam to Yerevan.*
   ![image](https://github.com/user-attachments/assets/342b1f38-31b8-41a2-9248-bb3255891257)
 
 
