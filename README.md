@@ -16,9 +16,9 @@ The dataset contains flight information scraped from Kayak, covering different f
 
 ## Objectives
 
- • Web Scraping: Automate the scraping of airfare data for multiple months and routes.
- • Data Cleaning: Clean the scraped data by handling missing values, formatting times, and removing outliers.
- • Exploratory Data Analysis (EDA): Visualize and analyze trends in airfare data to understand how prices vary by date, destination, and other factors.## Questions to Explore:
+* Web Scraping: Automate the scraping of airfare data for multiple months and routes.
+* Data Cleaning: Clean the scraped data by handling missing values, formatting times, and removing outliers.
+* Exploratory Data Analysis (EDA): Visualize and analyze trends in airfare data to understand how prices vary by date, destination, and other factors.## Questions to Explore:
 
 ## Questions to Explore:
 
@@ -42,26 +42,26 @@ Using Selenium, the airfare data was scraped for different routes and durations 
 
 In the Cleaning and EDA notebook, the scraped data was processed and cleaned:
 
- • Handling Missing Data: Missing values were removed or filled based on the dataset’s context.
- • Formatting Dates: Departure and return dates were reformatted for consistency.
- • Add new columns: Added new columns like Season,Total Stops and etc.
+* Handling Missing Data: Missing values were removed or filled based on the dataset’s context.
+* Formatting Dates: Departure and return dates were reformatted for consistency.
+* Add new columns: Added new columns like Season,Total Stops and etc.
 
 ## 3. Exploratory Data Analysis (EDA)
 
 The EDA focused on uncovering patterns in airfare prices:
 
- • Price Trends by Month: Visualization of how airfare prices fluctuate month to month.
- • Trip Duration vs Price: Analysis showing how the length of the trip affects the price.
- • Top Destinations by Price: Ranking destinations based on average airfare costs.
- • Airline Comparison: Comparison of average prices across different airlines.
+* Price Trends by Month: Visualization of how airfare prices fluctuate month to month.
+* Trip Duration vs Price: Analysis showing how the length of the trip affects the price.
+* Top Destinations by Price: Ranking destinations based on average airfare costs.
+* Airline Comparison: Comparison of average prices across different airlines.
 
 ## 4. Data Analysis and Insights
 
 After cleaning the data, key insights were derived from the analysis:
 
- • Optimal Booking Time: Identified the best time to book flights based on price trends.
- • Price Fluctuations by Trip Duration: Found that longer trips tend to have higher airfare, but specific durations (e.g., 1-week trips) show more stable prices.
- • Airline Performance: Certain airlines consistently offer cheaper flights for specific routes, providing cost-saving insights.
+* Optimal Booking Time: Identified the best time to book flights based on price trends.
+* Price Fluctuations by Trip Duration: Found that longer trips tend to have higher airfare, but specific durations (e.g., 1-week trips) show more stable prices.
+* Airline Performance: Certain airlines consistently offer cheaper flights for specific routes, providing cost-saving insights.
 
 ## Conclusion
 
